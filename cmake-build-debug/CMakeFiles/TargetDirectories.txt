@@ -1,0 +1,3 @@
+C:/ksj/reposit/jenkinstest/cmake-build-debug/CMakeFiles/jenkinstest.dir
+C:/ksj/reposit/jenkinstest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ksj/reposit/jenkinstest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
